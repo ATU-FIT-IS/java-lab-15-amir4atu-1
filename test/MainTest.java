@@ -13,3 +13,7 @@ public class MainTest {
         assertEquals(-1, Main.sum(2, -3));
     }
 }
+
+a = input()
+b = input()
+     print(a + b)
